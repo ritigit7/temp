@@ -1,0 +1,6 @@
+-- SCHEMA: temp
+
+-- DROP SCHEMA IF EXISTS temp ;
+
+CREATE SCHEMA IF NOT EXISTS temp
+    AUTHORIZATION postgres;
